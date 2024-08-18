@@ -15,17 +15,6 @@
 - Avoid clicking on any obstacles or non-mole characters.
 - Your final score will be displayed at the end of the game.
 
-## Features
-
-- **Interactive Gameplay:** Responsive design allows for seamless play on both desktop and mobile devices.
-- **Score Tracking:** Your score is updated in real-time as you hit the moles.
-- **Engaging Graphics:** Custom graphics and animations to enhance the gaming experience.
-
-## Installation
-
-1. Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/whack-a-mole.git
    
 Technologies Used
 HTML5: Structure of the game.
